@@ -1,4 +1,4 @@
-# DataScience
+# Technology
 Data analysis projects made with Python in Colab Notebook.<br>
 
 ## Airbnb
