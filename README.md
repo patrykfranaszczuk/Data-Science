@@ -1,5 +1,5 @@
 # Technology
-Data analysis projects made with Python in Colab Notebook.<br>
+Data analysis projects made with Python (numpy, pandas, matplotlib, seaborn) in Colab Notebook.<br>
 
 ## Airbnb
 Airbnb get the data gives an opportunity to receive a lot of information and data from a chosen city.<br>
